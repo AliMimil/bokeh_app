@@ -18,7 +18,7 @@ des décideurs politiques, contribuant ainsi à améliorer l’adéquation entre
 
 ### Description de la data
 
-La dataset obtenue est formée des colonnes suivantes data est contein 654 offre :
+La dataset obtenue est formée des colonnes suivantes data et contient 654 offres :
 • title: Cette colonne contient le titre de l’offre.
 • location: La ville où se situe l’entreprise pour les offres.
 • time: La date de publication de l’offre.
